@@ -2,6 +2,9 @@
 tags
 env
 
+# Heroku and Bluemix
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

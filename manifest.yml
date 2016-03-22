@@ -1,3 +1,4 @@
 ---
 applications:
 - name: weavlerservices
+  command: bash ./run.sh
